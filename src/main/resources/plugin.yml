@@ -1,5 +1,5 @@
 name: TechnoServerMessenger
-version: 1.0.0
+version: '${project.version}'
 main: ru.jadegg2568.jadeservermessenger.ServerMessengerAPI
 commands:
   servermessenger:
