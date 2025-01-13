@@ -1,0 +1,7 @@
+name: TechnoServerMessenger
+version: 1.0.0
+main: ru.jadegg2568.jadeservermessenger.ServerMessengerAPI
+commands:
+  servermessenger:
+    description: Server messenger
+    usage: /servermessenger help
